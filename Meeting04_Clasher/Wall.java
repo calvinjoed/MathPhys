@@ -30,6 +30,7 @@ public class Wall {
         g.setColor(tempColor);
     }
 
+    
     // finding the unit normal vector line of a wall
     public Vector normalLine() {
         //normal vector to be returned
