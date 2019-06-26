@@ -34,6 +34,7 @@ public class Hole {
     public void setPositionY(double positionY) {
         this.positionY = positionY;
     }
+    
 
     // drawing function
     public void draw(Graphics g) {
