@@ -146,4 +146,5 @@ public class DrawingArea extends JPanel {
             System.out.println("Graphics error: " + ex);
         }
     }
+    
 }
